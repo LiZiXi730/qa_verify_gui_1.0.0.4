@@ -1,0 +1,43 @@
+Pass: Module SN check passed. 
+Pass: Check module state passed.
+Fail: EEprom data check failed.UP_00H:157, cs value is 0x36, dut value is 0x32
+Fail: EEprom data check failed.UP_01H:144, cs value is 0x79, dut value is 0x7A
+Fail: EEprom data check failed.UP_01H:146, cs value is 0x46, dut value is 0x4B
+Fail: EEprom data check failed.UP_01H:155, cs value is 0xCD, dut value is 0xCB
+Fail: EEprom data check failed.UP_01H:156, cs value is 0x03, dut value is 0x07
+Fail: EEprom data check failed.UP_01H:160, cs value is 0x06, dut value is 0x17
+Fail: EEprom data check failed.UP_01H:167, cs value is 0x78, dut value is 0x58
+Fail: EEprom data check failed.UP_01H:168, cs value is 0x5A, dut value is 0x59
+Fail: EEprom data check failed.UP_02H:184, cs value is 0x00, dut value is 0xBE
+Fail: EEprom data check failed.UP_02H:185, cs value is 0x00, dut value is 0x6E
+Fail: EEprom data check failed.UP_02H:186, cs value is 0x00, dut value is 0x3F
+Fail: EEprom data check failed.UP_02H:187, cs value is 0x00, dut value is 0x7A
+Fail: EEprom data check failed.UP_02H:188, cs value is 0x00, dut value is 0xAF
+Fail: EEprom data check failed.UP_02H:189, cs value is 0x00, dut value is 0xC8
+Fail: EEprom data check failed.UP_02H:190, cs value is 0x00, dut value is 0x4E
+Fail: EEprom data check failed.UP_02H:191, cs value is 0x00, dut value is 0x20
+Fail: EEprom data check failed.UP_04H:192, cs value is 0xF8, dut value is 0xE8
+Fail: EEprom data check failed.UP_04H:193, cs value is 0xF8, dut value is 0x90
+Fail: EEprom data check failed.UP_04H:194, cs value is 0x07, dut value is 0x17
+Fail: EEprom data check failed.UP_04H:195, cs value is 0x08, dut value is 0x70
+Fail: EEprom data check failed.UP_13H:128, cs value is 0x0E, dut value is 0x0D
+Fail: EEprom data check failed.UP_13H:131, cs value is 0xFA, dut value is 0x5A
+Fail: EEprom data check failed.UP_28H:160, cs value is 0x55, dut value is 0x0A
+Fail: EEprom data check failed.UP_28H:164, cs value is 0x4E, dut value is 0x0A
+Fail: EEprom data check failed.UP_28H:165, cs value is 0x20, dut value is 0x28
+Fail: EEprom data check failed.UP_C0H:137, cs value is 0x00, dut value is 0x55
+Fail: EEprom data check failed.UP_C0H:254, cs value is 0x02, dut value is 0x00
+Fail: EEprom data check failed.UP_C5H:225, cs value is 0x00, dut value is 0x18
+Fail: EEprom data check failed.UP_C5H:226, cs value is 0x31, dut value is 0x71
+Pass: Checksum check passed.
+Pass: Table 0x28/0x29 EEprom data check passed. 
+Pass: Tx VG/ Rx OA Loop status check passed.
+Pass: Rx los check flag check passed.
+Fail: Check dsp mode failed. 
+Pass: ABC realtime ratio / op point / mode check passed.
+Pass: Module alarm/warning check passed.
+Pass: OSNR calibration flag check passed.
+Fail: All Channel 3T test result check failed. 
+Fail: OSNR 3T test result check failed. 
+---------------Verify Test Is Completed.--------------- 
+

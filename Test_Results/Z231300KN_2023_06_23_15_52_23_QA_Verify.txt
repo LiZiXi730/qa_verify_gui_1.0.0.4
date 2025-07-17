@@ -1,0 +1,15 @@
+Pass: Module SN check passed. 
+Pass: Check module state passed.
+Pass: EEprom data check passed.
+Pass: Checksum check passed.
+Pass: Table 0x28/0x29 EEprom data check passed. 
+Pass: Tx VG/ Rx OA Loop status check passed.
+Pass: Rx los check flag check passed.
+Fail: Check dsp mode failed. 
+Pass: ABC realtime ratio / op point / mode check passed.
+Pass: Module alarm/warning check passed.
+Pass: OSNR calibration flag check passed.
+Fail: All Channel 3T test result check failed. 
+Fail: OSNR 3T test result check failed. 
+---------------Verify Test Is Completed.--------------- 
+
